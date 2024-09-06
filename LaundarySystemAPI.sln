@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaundarySystemAPI", "LaundarySystemAPI\LaundarySystemAPI.csproj", "{DE467761-9E30-45F4-98F3-FB28FA4DFD3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{D40AE3F9-CB89-420F-8A37-E4323D8714CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE467761-9E30-45F4-98F3-FB28FA4DFD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE467761-9E30-45F4-98F3-FB28FA4DFD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE467761-9E30-45F4-98F3-FB28FA4DFD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE467761-9E30-45F4-98F3-FB28FA4DFD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D40AE3F9-CB89-420F-8A37-E4323D8714CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40AE3F9-CB89-420F-8A37-E4323D8714CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40AE3F9-CB89-420F-8A37-E4323D8714CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40AE3F9-CB89-420F-8A37-E4323D8714CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95762FB9-E271-4621-9314-033554CEFFF6}
+	EndGlobalSection
+EndGlobal
